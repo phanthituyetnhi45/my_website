@@ -7,14 +7,15 @@
     <div class="logo">
         <a href="index.html" title="Du Ký Việt home page"></a>
     </div>
-    <nav>
-        <ul>
-            <li><a class="active" title="Trang chủ">Trang chủ</a></li>
-            <li><a title="Blog">Blog</a></li>
-            <li><a title="Về tôi">Về tôi</a></li>
-            <li><a title="Liên hệ">Liên hệ</a></li>
-        </ul>
-    </nav>
 </header>
+<body>
+<div class="navbar">
+<a href="#home">Trang chủ</a>
+<a href="#blog">Blog</a>
+<a href="#about">Về tôi</a>
+<a href="#contact">Liên hệ</a>
+</div>
+</body>
 </html>
+
 
